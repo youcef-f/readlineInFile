@@ -1,0 +1,4 @@
+math;18
+francais;2
+anglais;20
+music;3
